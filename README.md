@@ -1,0 +1,1 @@
+The program can generate billions of trillions(quintillions) of passwords unique passwords when using the default length of 12 characters making it practically impossible to generate the same password twice under normal conditions 💀😎
