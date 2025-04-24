@@ -12,7 +12,7 @@ const password = (length = 12) =>{
 
     const allCharcters = lowercase + uppercase +symbols + numbers;
 
-    let  passId = "";
+    let  passId = [];
 
 
     for( let i = 0; i < length; i++) {
@@ -22,7 +22,7 @@ const password = (length = 12) =>{
 
         passId += allCharcters[randomIdx]
     }
-    return passId;
+    passId.push();
 }
 
 
